@@ -1,0 +1,6 @@
+{
+  "name": "Cadence — Daily Schedule & Priority Push Notifier",
+  "description": "Interval-based daily schedule push notifier and task prioritization workspace with smart importance tiers, configurable notification cadences, and live push digests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
